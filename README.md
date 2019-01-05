@@ -1,6 +1,8 @@
 # Cat
 
 base
+hige1
+hige2
 
 # 元ネタ
 
