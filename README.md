@@ -3,6 +3,7 @@
 base
 hige1
 hige2
+moyou
 
 # 元ネタ
 
